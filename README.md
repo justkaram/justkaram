@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://t.me/nolimiT_k"><img src="https://img.shields.io/badge/-nolimitk-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="mailto:karamhilles@gmail.com"><img src="https://img.shields.io/badge/-karamhilles@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/justkaramm/"><img src="https://img.shields.io/badge/-@justkaramm_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/karam.hillis/"><img src="https://img.shields.io/badge/-@Karam Rami-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
